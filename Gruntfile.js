@@ -14,7 +14,7 @@ module.exports = function(grunt) {
                 "src": "./frameworks/vanillaJS/main.js",
                 "dest": "./frameworks/vanillaJS/main-min.js"
             },
-            "backbone": {
+            backbone: {
                 "src": "./frameworks/backbone/main.js",
                 "dest": "./frameworks/backbone/main-min.js"
             },
