@@ -3013,7 +3013,7 @@ var results = [
 
 _setThumbnail(results);
 
-React.renderComponent(
+React.render(
   <HeroesDirectory
     heroes={results}
   />,
