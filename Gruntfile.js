@@ -15,6 +15,9 @@ module.exports = function(grunt) {
                 "dest": "./frameworks/vanillaJS/main-min.js"
             },
             backbone: {
+                "options": {
+                    debug: true
+                },
                 "src": "./frameworks/backbone/main.js",
                 "dest": "./frameworks/backbone/main-min.js"
             },

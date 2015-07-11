@@ -7,4 +7,3 @@ if (findSuperman(names())) {
 } else {
     document.write('No Superman...');
 }
-console.log("OMER");
