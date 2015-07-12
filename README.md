@@ -6,3 +6,5 @@ browserifyjs
 > Using browserify with vanillaJS, backbone, reactJS
 
 This is a simple example using browserify and some frameworks.
+ 
+[Here](http://omerherera.github.io/browserifyjs/) is the link for a runnig pages with the examples
